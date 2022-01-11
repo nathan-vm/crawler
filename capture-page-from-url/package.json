@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "description": "Scrap data with a AWS Lambda",
+  "main": "app.js",
+  "author": "janrsilva",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer-core": "^10.2.0"
+  },
+  "scripts": {
+    "dev": "node test.js"
+  },
+  "devDependencies": {}
+}
